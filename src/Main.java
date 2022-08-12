@@ -45,7 +45,7 @@ public class Main {
                 minKey = i;
             }
         }
-        System.out.println("Максимальное количество символов " + maxKey + ": " + maxValue + "\n" +
-                "Минимальное количество символов " + minKey + ": " + minValue);
+        System.out.println("РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ СЃРёРјРІРѕР»РѕРІ " + maxKey + ": " + maxValue + "\n" +
+                "РњРёРЅРёРјР°Р»СЊРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ СЃРёРјРІРѕР»РѕРІ " + minKey + ": " + minValue);
     }
 }
